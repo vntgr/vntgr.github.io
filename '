@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <h2 class="logo">vntgr</h2>
+  <h2>vntgr</h2>
   <p>A devlog from Nirmal Kumar R</p>
 
   <nav>
@@ -32,6 +32,8 @@
       </li>
     </ul>
   </section>
+
+  </script>
 </body>
 
 </html>
