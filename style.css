@@ -12,6 +12,17 @@ h2.logo {
                                   supported by Chrome, Edge, Opera and Firefox */
 }
 
+p.description {
+  font-size: 24px;
+  text-shadow: 0 1px 2px #fff;
+  color: #5e7b5e;
+}
+
+a {
+  color: #12606f;
+  border-bottom: 2px solid #12606f;
+}
+
 h4 {
   font-size: 2rem;
 }
